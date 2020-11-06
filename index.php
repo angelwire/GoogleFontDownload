@@ -99,7 +99,7 @@ function imagettfbboxextended($size, $angle, $fontfile, $text) {
 
 //Get the font from Google Fonts
 //Setup cURL request
-$googleapikey = "AIzaSyCdPvL53ZrWlOyf_jH1AC1kMorZSgPZQ5Q";
+$googleapikey = "X";
 $googleapiurl = "https://www.googleapis.com/webfonts/v1/webfonts?key=$googleapikey&sort=alpha";
 $curl = curl_init();
 curl_setopt($curl, CURLOPT_URL, $googleapiurl);
