@@ -1,4 +1,9 @@
 <?php
+/*
+DEPRECATED!!!
+This is a test PHP script to convert a Google Font into a sprite strip... it's not needed any more
+*/
+
 //First, set the default properties
 $fontfamily = "Architects Daughter";
 $charmap = " !".'"'."#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ{\}^_`abcdefghijklmnopqrstuvwxyz{|}~";
