@@ -1,5 +1,5 @@
 # GoogleFontDownload
-DEPRECATED folder contains a pure PHP solution while the other files work purely within Gamemaker Studio
+PHPSolution folder contains a pure PHP solution while the other files work purely within Gamemaker Studio
 
 Download Google fonts within Gamemaker projects
 
